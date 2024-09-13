@@ -6,7 +6,7 @@ Key Features:
 
 TensorFlow Lite integration for efficient on-device machine learning.
 
-Predicts house prices based on geographical and demographic data.
+Predicts house prices based on demographic data.
 
 Inputs include latitude, total rooms, population, etc.
 
